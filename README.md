@@ -4,4 +4,4 @@ I'm working on eating healthier and not messing with my health. Also trying to g
 My favorite hobby is trying new foods, which usually messes with my daily calorie count.
 
 ## What I've learned
-lesson_learned.md
+[lesson_learned.md](https://github.com/AerE361/mission-1-SamLaBarbera/blob/devel-sjl/lessons_learned.md)
